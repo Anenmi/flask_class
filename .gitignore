@@ -1,0 +1,5 @@
+__pycache__
+venv
+.dvc/
+__pycache__.dvc
+venv.dvc
